@@ -1,2 +1,2 @@
 # opencv-test
-a little project using opencv
+a little projects using opencv
